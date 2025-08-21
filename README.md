@@ -28,10 +28,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/GylanSalih/CodeQuest">
-    <img src="docs/images/16.08.25_home.png" alt="CodeQuest Preview" width="400" style="margin-right: 10px; display: inline-block;">
+    <img src="docs/images/showcase1.png" alt="CodeQuest Preview" width="400" style="margin-right: 10px; display: inline-block;">
   </a>
   <a href="https://github.com/GylanSalih/CodeQuest">
-    <img src="docs/images/16.08.25_home2.png" alt="CodeQuest Preview 2" width="400" style="margin-left: 10px; display: inline-block;">
+    <img src="docs/images/showcase2.png" alt="CodeQuest Preview 2" width="400" style="margin-left: 10px; display: inline-block;">
   </a>
 
 <h3 align="center">
